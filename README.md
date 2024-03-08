@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<h3 align="center">I love web development and design for its fusion of user interface and user experience UI & UX. Every detail is meticulously thought out to create seamless and aesthetically pleasing online experiences.</h3>
+<h3 align="left">I love web development and design for its fusion of user interface and user experience UI & UX. Every detail is meticulously thought out to create seamless and aesthetically pleasing online experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kzk0&label=Profile%20views&color=0e75b6&style=flat" alt="kzk0" /> </p>
 
-- 🌱 I want to learn **Typescript, WebGL, Three.JS, GSAP**
+- 🌱 I want to learn: **Typescript, WebGL, Three.JS, GSAP**
 
-- 👨‍💻 All of my projects are available at [https://kzko.xyz/](https://kzko.xyz/)
+- 👨‍💻 Visit my portfolio: [https://kzko.xyz/](https://kzko.xyz/)
 
-- 💬 Ask me about **HTML, CSS (SASS/SCSS), JavaScript, React**
+- 💬 Ask me about: **HTML, CSS (SASS/SCSS), JavaScript, React**
 
-- 📫 How to reach me **contact@kzko.xyz**
+- 📫 Contact me: **contact@kzko.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
