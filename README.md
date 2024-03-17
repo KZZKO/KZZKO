@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="left">I love web development and design for its fusion of user interface and user experience UI & UX. Every detail is meticulously thought out to create seamless and aesthetically pleasing online experiences.</h3>
+<h3 align="left">I love web development and design for its fusion of user interface and user experience UI & UX.<br> Every detail is meticulously thought out to create seamless and aesthetically pleasing online experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kzk0&label=Profile%20views&color=0e75b6&style=flat" alt="kzk0" /> </p>
 
