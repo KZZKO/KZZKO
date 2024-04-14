@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on: **Kogos (Personal project), GoldRace RP (Side Project)**
 
-- 🌱 I want to learn: **Typescript, Next.JS,  WebGL, Three.JS, GSAP**
+- 🌱 I want to learn: **TypeScript, Next.JS,  WebGL, Three.JS, GSAP**
 
 - 👨‍💻 Visit my portfolio: [https://kzko.xyz/](https://kzko.xyz/)
 
