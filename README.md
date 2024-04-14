@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kzk0&label=Profile%20views&color=0e75b6&style=flat" alt="kzk0" /> </p>
 
-- 🔭 I’m currently working on: Kogos (Personal project), GoldRace RP (Side Project)
+- 🔭 I’m currently working on: **Kogos (Personal project), GoldRace RP (Side Project)**
 
 - 🌱 I want to learn: **Typescript, Next.JS,  WebGL, Three.JS, GSAP**
 
