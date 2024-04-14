@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kzk0&label=Profile%20views&color=0e75b6&style=flat" alt="kzk0" /> </p>
 
-- 🌱 I want to learn: **Typescript, WebGL, Three.JS, GSAP**
+- 🔭 I’m currently working on: Kogos (Personal project), GoldRace RP (Side Project)
+
+- 🌱 I want to learn: **Typescript, Next.JS,  WebGL, Three.JS, GSAP**
 
 - 👨‍💻 Visit my portfolio: [https://kzko.xyz/](https://kzko.xyz/)
 
