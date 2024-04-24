@@ -2,7 +2,16 @@
 
 <h3 align="left">I love web development and design for its fusion of user interface and user experience UI & UX.<br> Every detail is meticulously thought out to create seamless and aesthetically pleasing online experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kzk0&label=Profile%20views&color=0e75b6&style=flat" alt="kzk0" /> </p>
+<div id="badge" align="left" justify="center">
+  <p> <img src="https://komarev.com/ghpvc/?username=kzk0&label=Profile%20views&color=0e75b6&style=flat" alt="kzk0" /> </p>
+  <a href="https://www.linkedin.com/in/mehdi-miraoui/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://kzko.xyz/">
+    <img alt="Website" src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=react&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</div>
+
 
 - 🔭 I’m currently working on: **Kogos (Personal project), GoldRace RP (Side Project)**
 
