@@ -1,30 +1,51 @@
-### Hi there 👋
+![Header image](https://img.freepik.com/vetores-premium/ilustracao-em-vetor-de-banner-de-boas-vindas-de-tema-de-8-bits-de-pixels_671488-26.jpg)
 
-<h3 align="left">I love web development and design for its fusion of user interface and user experience UI & UX.<br> Every detail is meticulously thought out to create seamless and aesthetically pleasing online experiences.</h3>
+<p> <img src="https://komarev.com/ghpvc/?username=kzk0&label=Profile%20views&color=0e75b6&style=flat" alt="kzk0" /> </p>
 
-<div id="badge" align="left" justify="center">
-  <p> <img src="https://komarev.com/ghpvc/?username=kzk0&label=Profile%20views&color=0e75b6&style=flat" alt="kzk0" /> </p>
-  <a href="https://www.linkedin.com/in/mehdi-miraoui/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://kzko.xyz/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=react&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</div>
+# 👋- Hi, I'm KOZU
 
+I'm a passionate 27 year old Front-end developer from northern France, where my meticulousness and perfectionism shine through in every line of code.
+Beyond coding, I enjoy exploring foreign languages, immersing myself in reading, savoring music, and delving into captivating video game worlds.
+
+## 🎨- About me
 
 - 🔭 I’m currently working on: **Kogos (Personal project), GoldRace RP (Side Project)**
 
 - 🌱 I want to learn: **TypeScript, Next.JS,  WebGL, Three.JS, GSAP**
 
-- 👨‍💻 Visit my portfolio: [https://kzko.xyz/](https://kzko.xyz/)
+- 👨‍💻 Visit my portfolio:  
 
-- 💬 Ask me about: **HTML, CSS (SASS/SCSS), JavaScript, React**
+  <a href="https://kzko.xyz/">
+    <img alt="PORTFOLIO" src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=react&logoColor=white" alt="portfolio">
+  </a>
 
-<h3 align="left">Connect with me:</h3>
-- 📫 Contact me: contact@kzko.xyz
+## 🎨- Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### < Programming />
+[![Program](https://skillicons.dev/icons?i=js,php&theme=light)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzk0&show_icons=true&theme=dark&locale=en&layout=compact" alt="kzk0" /></p>
+### < Front-End />
+![Front](https://skillicons.dev/icons?i=html,css,sass,react&theme=light)
+
+### < Back-End />
+![Back](https://skillicons.dev/icons?i=nodejs,express,firebase&theme=light)
+
+### < DataBase />
+![Data](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)
+
+### < DevTools />
+![DevTools](https://skillicons.dev/icons?i=npm,yarn,vite,pnpm,postman,git,github,redux&theme=light)
+
+### < Tools />
+![Tools](https://skillicons.dev/icons?i=vscode,sublime,powershell,wordpress&theme=light)
+
+### < Software />
+![Software](https://skillicons.dev/icons?i=ps,figma,notion&theme=light)
+
+## Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-miraoui/)
+
+## Languages spoken
+
+![Français](https://flagcdn.com/32x24/fr.png) ![English](https://flagcdn.com/32x24/gb.png) ![Deutsch](https://flagcdn.com/32x24/de.png)
