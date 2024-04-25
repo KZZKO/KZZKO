@@ -7,7 +7,7 @@
 I'm a passionate 27 year old Front-end developer from northern France, where my meticulousness and perfectionism shine through in every line of code.
 Beyond coding, I enjoy exploring foreign languages, immersing myself in reading, savoring music, and delving into captivating video game worlds.
 
-## 🎨- About me
+## 👀- About me
 
 - 🔭 I’m currently working on: **Kogos (Personal project), GoldRace RP (Side Project)**
 
@@ -19,7 +19,7 @@ Beyond coding, I enjoy exploring foreign languages, immersing myself in reading,
     <img alt="PORTFOLIO" src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=react&logoColor=white" alt="portfolio">
   </a>
 
-## 🎨- Skills
+## 👨‍🎨- Skills
 
 ### < Programming />
 [![Program](https://skillicons.dev/icons?i=js,php&theme=light)](https://skillicons.dev)
@@ -42,10 +42,10 @@ Beyond coding, I enjoy exploring foreign languages, immersing myself in reading,
 ### < Software />
 ![Software](https://skillicons.dev/icons?i=ps,figma,notion&theme=light)
 
-## Contacts
+## ✉️- Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-miraoui/)
 
-## Languages spoken
+## 🗣️- Languages spoken
 
 ![Français](https://flagcdn.com/32x24/fr.png) ![English](https://flagcdn.com/32x24/gb.png) ![Deutsch](https://flagcdn.com/32x24/de.png)
