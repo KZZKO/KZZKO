@@ -46,6 +46,8 @@ Beyond coding, I enjoy exploring foreign languages, immersing myself in reading,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-miraoui/)
 
+<p>PRO: contact@kzko.xyz</p>
+
 ## 🗣️- Languages spoken
 
 ![Français](https://flagcdn.com/32x24/fr.png) ![English](https://flagcdn.com/32x24/gb.png) ![Deutsch](https://flagcdn.com/32x24/de.png)
