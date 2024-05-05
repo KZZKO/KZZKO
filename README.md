@@ -22,7 +22,7 @@ Beyond coding, I enjoy exploring foreign languages, immersing myself in reading,
 ## 👨‍🎨- Skills
 
 ### < Programming />
-[![Program](https://skillicons.dev/icons?i=js,php&theme=light)](https://skillicons.dev)
+[![Program](https://skillicons.dev/icons?i=js,ts,php&theme=light)](https://skillicons.dev)
 
 ### < Front-End />
 ![Front](https://skillicons.dev/icons?i=html,css,sass,react&theme=light)
