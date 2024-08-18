@@ -4,7 +4,7 @@
 
 # 👋- Hi, I'm KOZU
 
-I'm a passionate 27 year old Front-end developer from northern France, where my meticulousness and perfectionism shine through in every line of code.
+I'm a passionate 28 year old Front-end developer from northern France, where my meticulousness and perfectionism shine through in every line of code.
 Beyond coding, I enjoy exploring foreign languages, immersing myself in reading, savoring music, and delving into captivating video game worlds.
 
 ## 👀- About me
