@@ -9,7 +9,7 @@ Beyond coding, I enjoy exploring foreign languages, immersing myself in reading,
 
 ## 👀- About me
 
-- 🔭 I’m currently working on: **Kogos (Personal project), GoldRace RP (Side Project)**
+- 🔭 I’m currently working on: **Kogos (Personal project), Depann'Info (Work Project), OD Agency (Work Project)**
 
 - 🌱 I want to learn: **TypeScript, Next.JS,  WebGL, Three.JS, GSAP**
 
