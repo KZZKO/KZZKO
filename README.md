@@ -9,9 +9,9 @@ Beyond coding, I enjoy exploring foreign languages, immersing myself in reading,
 
 ## 👀- About me
 
-- 🔭 I’m currently working on: **Kogos (Personal project), Depann'Info (Work Project), OD Agency (Work Project)**
+- 🔭 I’m currently working on: **Kogos (Work project), Depann'Info (Work Project)**
 
-- 🌱 I want to learn: **TypeScript, Next.JS,  WebGL, Three.JS, GSAP**
+- 🌱 Im learning: **TypeScript, Next.JS,  WebGL, Three.JS, GSAP**
 
 - 👨‍💻 Visit my portfolio:  
 
