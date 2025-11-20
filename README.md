@@ -4,12 +4,12 @@
 
 # 👋- Hi, I'm KOZU
 
-I'm a passionate 28 year old Front-end developer from northern France, where my meticulousness and perfectionism shine through in every line of code.
+I'm a passionate 29 year old Front-end developer from northern France, where my meticulousness and perfectionism shine through in every line of code.
 Beyond coding, I enjoy exploring foreign languages, immersing myself in reading, savoring music, and delving into captivating video game worlds.
 
 ## 👀- About me
 
-- 🔭 I’m currently working on: **Kogos (Work project), Depann'Info (Work Project)**
+- 🔭 I’m currently working on: **Kogos (Work project)**
 
 - 🌱 Im learning: **TypeScript, Next.JS,  WebGL, Three.JS, GSAP, Framer-Motion**
 
@@ -46,7 +46,7 @@ Beyond coding, I enjoy exploring foreign languages, immersing myself in reading,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-miraoui/)
 
-<p>PRO: contact@kzko.xyz</p>
+<p>PRO: N/A</p>
 
 ## 🗣️- Languages spoken
 
